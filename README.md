@@ -1,6 +1,6 @@
 # 🏥 Skin Lesion Classification using Deep Learning
 
-A machine learning project that identifies 7 different types of skin lesions from images using deep learning models.
+A transfer learning project that fine-tunes pre-trained CNNs (ResNet50, EfficientNet, ResNet101) to classify 7 types of skin lesions from the HAM10000 dataset.
 
 ## 📊 Project Overview
 
@@ -68,6 +68,8 @@ skin-lesion-classifier/
 4. **Comprehensive Metrics** - Evaluated using accuracy, precision, recall, F1-score, and AUC
 
 ## 📈 Model Performance Highlights
+### Weighted Sampling
+![Weighted Sampling Analysis](visualizations/weighted_sampling_analysis.png)
 
 ### Overall Performance
 ![Model Performance Comparison](visualizations/overall_metrics_comparison.png)
@@ -127,7 +129,7 @@ This project uses the HAM10000 dataset:
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@jingchuan97](https://github.com/jingchuan97/)
+- GitHub: [PANG JING CHUAN @laofilin](https://github.com/laofilin/)
 - LinkedIn: [Pang Jing Chuan](https://www.linkedin.com/in/pang-jing-chuan-b48a9315b/)
 - Email: jingchuanpang@gmail.com
 
