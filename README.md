@@ -127,8 +127,8 @@ This project uses the HAM10000 dataset:
 
 Feel free to reach out if you have questions or suggestions!
 
-- GitHub: [@YOUR_USERNAME](https://github.com/jingchuan97/)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/pang-jing-chuan-b48a9315b/)
+- GitHub: [@jingchuan97](https://github.com/jingchuan97/)
+- LinkedIn: [Pang Jing Chuan](https://www.linkedin.com/in/pang-jing-chuan-b48a9315b/)
 - Email: jingchuanpang@gmail.com
 
 ---
